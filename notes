@@ -1,0 +1,19 @@
+https://gcc.gnu.org/onlinedocs/cpp/Search-Path.html
+- the defaut search path of libraries in GCC
+
+http://stackoverflow.com/questions/18012930/how-to-redirect-all-output-to-dev-null
+- output the terminal message to /dev/null and run it in background
+
+http://ted-notebook.blogspot.tw/2013/01/cross-compile-mysql-connector-c-602.html
+- mysql Xcompile settings
+
+http://stackoverflow.com/questions/22403799/pthreads-shared-memory-between-threads
+- pthread share memory
+
+http://sqlite.1065341.n5.nabble.com/database-is-locked-with-create-td67109.html
+- sqlite db lock
+
+http://www.sqlite.org/vfs.html
+http://www.sqlite.org/pragma.html#pragma_journal_mode
+- reference of the previous issue
+
